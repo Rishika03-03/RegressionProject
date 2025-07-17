@@ -1,2 +1,2 @@
 # RegressionProject
-Identifying salary based on experience in streamlit
+Identifying salary based on experience using streamlit
